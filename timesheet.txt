@@ -1,0 +1,16 @@
+Nov 14 Fri:	6hr to learn pygame and competitive analysis
+Nov 15 Sat:	8hr to learn pygame and practice pygame
+Nov 16 Sun:	8hr to make main character jump between platforms and meet CA
+Nov 17 Mon:	3hr competitive analysis, storyboard and meet CA
+Nov 19 Wed:	3hr to substantiate canvas shifting
+Nov 20 Thu:	6hr to improve jumping function
+Nov 21 Fri:     8hr to add floating platforms
+Nov 22 Sat:	8hr to make the movements smoothly
+Nov 23 Sun:	8hr add features and polish
+Nov 25 Tue:	9hr add features and polish
+Nov 27 Tue:	6hr add features and polish
+Nov 28 Tue:	6hr add features and polish
+Nov 30 Tue:	3hr add features and polish
+Dec 1 Tue:	6hr add features and polish
+Dec 2 Tue:	6hr add features and polish
+Dec 3 Tue:	6hr add features and polish
